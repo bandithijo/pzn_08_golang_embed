@@ -1,4 +1,4 @@
-package pzn_08_golang_embed
+package test
 
 import (
 	"embed"
